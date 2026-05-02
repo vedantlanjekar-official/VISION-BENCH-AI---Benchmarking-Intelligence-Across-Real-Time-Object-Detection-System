@@ -1,0 +1,15 @@
+**/__pycache__/
+**/*.pyc
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+.env
+backend/.env
+models/*.pt
+models/*.onnx
+*.mp4
+*.avi
+*.mov
+*.mkv
+pgdata/
+
